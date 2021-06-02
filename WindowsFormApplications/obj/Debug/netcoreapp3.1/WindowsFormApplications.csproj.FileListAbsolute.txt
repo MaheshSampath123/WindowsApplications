@@ -1,0 +1,15 @@
+D:\Training .NET\WindowsApplications\WindowsFormApplications\WindowsFormApplications\bin\Debug\netcoreapp3.1\WindowsFormApplications.exe
+D:\Training .NET\WindowsApplications\WindowsFormApplications\WindowsFormApplications\bin\Debug\netcoreapp3.1\WindowsFormApplications.deps.json
+D:\Training .NET\WindowsApplications\WindowsFormApplications\WindowsFormApplications\bin\Debug\netcoreapp3.1\WindowsFormApplications.runtimeconfig.json
+D:\Training .NET\WindowsApplications\WindowsFormApplications\WindowsFormApplications\bin\Debug\netcoreapp3.1\WindowsFormApplications.runtimeconfig.dev.json
+D:\Training .NET\WindowsApplications\WindowsFormApplications\WindowsFormApplications\bin\Debug\netcoreapp3.1\WindowsFormApplications.dll
+D:\Training .NET\WindowsApplications\WindowsFormApplications\WindowsFormApplications\bin\Debug\netcoreapp3.1\WindowsFormApplications.pdb
+D:\Training .NET\WindowsApplications\WindowsFormApplications\WindowsFormApplications\obj\Debug\netcoreapp3.1\WindowsFormApplications.csprojAssemblyReference.cache
+D:\Training .NET\WindowsApplications\WindowsFormApplications\WindowsFormApplications\obj\Debug\netcoreapp3.1\WindowsFormApplications.Form1.resources
+D:\Training .NET\WindowsApplications\WindowsFormApplications\WindowsFormApplications\obj\Debug\netcoreapp3.1\WindowsFormApplications.csproj.GenerateResource.cache
+D:\Training .NET\WindowsApplications\WindowsFormApplications\WindowsFormApplications\obj\Debug\netcoreapp3.1\WindowsFormApplications.AssemblyInfoInputs.cache
+D:\Training .NET\WindowsApplications\WindowsFormApplications\WindowsFormApplications\obj\Debug\netcoreapp3.1\WindowsFormApplications.AssemblyInfo.cs
+D:\Training .NET\WindowsApplications\WindowsFormApplications\WindowsFormApplications\obj\Debug\netcoreapp3.1\WindowsFormApplications.csproj.CoreCompileInputs.cache
+D:\Training .NET\WindowsApplications\WindowsFormApplications\WindowsFormApplications\obj\Debug\netcoreapp3.1\WindowsFormApplications.dll
+D:\Training .NET\WindowsApplications\WindowsFormApplications\WindowsFormApplications\obj\Debug\netcoreapp3.1\WindowsFormApplications.pdb
+D:\Training .NET\WindowsApplications\WindowsFormApplications\WindowsFormApplications\obj\Debug\netcoreapp3.1\WindowsFormApplications.genruntimeconfig.cache
